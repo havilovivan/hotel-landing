@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex-center-between {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.button {
+    border-radius: 2px;
+    border: none;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.button-gold {
+    background: #E3B873;
+    box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.2);
+}
+
+.button-transparent {
+    border: 1px solid #FFFFFF;
+    background: transparent;
+}
