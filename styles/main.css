@@ -107,5 +107,18 @@ header {
     display: flex;
     flex-direction: column;
     width: 100%;
-    
+    background: #131313;
+    padding: 0 134px;
+}
+
+.projects-wrapper .projects-content {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.projects-wrapper .projects-content .projects-content-left {
+    width: 40%;
+    min-width: 442px;
+
 }
