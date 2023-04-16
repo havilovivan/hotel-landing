@@ -27,3 +27,8 @@
     border: 1px solid #FFFFFF;
     background: transparent;
 }
+
+.font-normal {
+    font-style: normal;
+    font-weight: 400;
+}

@@ -10,8 +10,6 @@ header {
     height: 100%;
     padding: 0 90px;
     font-family: 'Nunito Sans';
-    font-style: normal;
-    font-weight: 400;
     font-size: 11px;
     text-transform: uppercase;
 }
@@ -78,8 +76,6 @@ header {
     color: #FFFFFF;
     text-transform: uppercase;
     font-family: 'Yeseva One';
-    font-style: normal;
-    font-weight: 400;
     font-size: 40px;
     line-height: 53px;
 }
@@ -90,8 +86,6 @@ header {
 
 .home-content p {
     font-family: 'Nunito Sans';
-    font-style: normal;
-    font-weight: 400;
     font-size: 22px;
     line-height: 36px;
     color: #FFFFFF;
@@ -107,4 +101,11 @@ header {
 
 .home-content .button-block .button-transparent {
     margin-left: 20px;
+}
+
+.projects-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    
 }
